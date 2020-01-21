@@ -2,7 +2,7 @@
   "name": "employee-template",
   "version": "1.0.0",
   "description": "CLI for creating employee profiles and team HTML page",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
